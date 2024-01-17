@@ -1,0 +1,4 @@
+<resources>
+    <string name="message">IMC</string>
+    <string name="message_classificacao">Classificacão %1$s!</string>
+</resources>
